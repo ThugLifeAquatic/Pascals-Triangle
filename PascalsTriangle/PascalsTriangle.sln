@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinArbiter", "CoinArbiter\CoinArbiter.csproj", "{083B7B1E-5CD8-4D68-9B36-7D5CF8004F7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{C2757D15-824B-4B6B-A893-482278C5D1A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{083B7B1E-5CD8-4D68-9B36-7D5CF8004F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{083B7B1E-5CD8-4D68-9B36-7D5CF8004F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{083B7B1E-5CD8-4D68-9B36-7D5CF8004F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{083B7B1E-5CD8-4D68-9B36-7D5CF8004F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2757D15-824B-4B6B-A893-482278C5D1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2757D15-824B-4B6B-A893-482278C5D1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2757D15-824B-4B6B-A893-482278C5D1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2757D15-824B-4B6B-A893-482278C5D1A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {28829B3B-2BDE-44CF-BA1C-141563FACA3E}
+		SolutionGuid = {6735F4FB-0E6D-41BA-BD78-2A087CC4D70F}
 	EndGlobalSection
 EndGlobal
